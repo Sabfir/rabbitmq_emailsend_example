@@ -1,0 +1,12 @@
+*.class
+*.idea
+*.iml
+mq_consumer/target
+mq_publisher/target
+gitbash*
+dev_private
+desktop.ini
+
+# Package Files
+*.war
+*.ear
